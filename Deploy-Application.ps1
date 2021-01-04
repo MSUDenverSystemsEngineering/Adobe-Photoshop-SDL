@@ -65,12 +65,12 @@ Try {
 	## Variables: Application
 	[string]$appVendor = 'Adobe'
 	[string]$appName = 'Photoshop 2021'
-	[string]$appVersion = '22'
+	[string]$appVersion = '22.1'
 	[string]$appArch = 'x64'
 	[string]$appLang = 'EN'
 	[string]$appRevision = '01'
 	[string]$appScriptVersion = '3.8.0.0'
-	[string]$appScriptDate = '11/17/2020'
+	[string]$appScriptDate = '01/04/2020'
 	[string]$appScriptAuthor = 'James Hardy, Jordan Hamilton'
 	##*===============================================
 	## Variables: Install Titles (Only set here to override defaults set by the toolkit)
